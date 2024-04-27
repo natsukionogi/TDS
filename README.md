@@ -5,7 +5,7 @@
 - If you want to run it regularly, register it in the scheduler using the cron command to run main.py.
 - For argument 1 of slackweb.Slack(url=argument 1), set the URL of the incomingwebhook of the Slack channel you want to notify.
 - The configuration file has been placed in the sample folder, so please configure it for each execution environment.
-- If you have any questions, please contact us!
+- If you have any questions, please contact me!
 
 # Notes on executing cron commands
 - When executing the cron command, only some environment variables are read (.bash_profile is also not read), so please specify the command path as an absolute path.
