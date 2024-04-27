@@ -1,0 +1,2 @@
+# 毎月定期実行するコマンド(毎月5日の12時0分に実行するように設定)
+0 12 5 * * /Users/user/.pyenv/versions/3.9.7/bin/python /Users/user/Desktop/labroom/TDS/main.py
